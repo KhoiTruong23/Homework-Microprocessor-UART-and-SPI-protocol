@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega324PA"</DEVICE>
+ <WORKING_DIR>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m324PAdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\Debug\Homework_SPI_slave.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Homework_SPI_slave.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Homework_SPI_slave.map</FILE>
+  <FILE>Homework_SPI_slave.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>14</LINE></MAIN>
+  <START><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>26</LINE></START>
+  <keypad_scan><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>53</LINE></keypad_scan>
+  <SPI_SS><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>34</LINE></SPI_SS>
+  <SPI_TRANSACTION><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>44</LINE></SPI_TRANSACTION>
+  <CHECK_FLAG><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>46</LINE></CHECK_FLAG>
+  <DELAY><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>113</LINE></DELAY>
+  <keypad_scan_loop><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>62</LINE></keypad_scan_loop>
+  <keypad_scan_check_col2><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>69</LINE></keypad_scan_check_col2>
+  <keypad_scan_found><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>99</LINE></keypad_scan_found>
+  <keypad_scan_check_col3><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>75</LINE></keypad_scan_check_col3>
+  <keypad_scan_check_col4><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>82</LINE></keypad_scan_check_col4>
+  <keypad_scan_next_row><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>89</LINE></keypad_scan_next_row>
+  <keypad_scan_not_found><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>108</LINE></keypad_scan_not_found>
+  <L1><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>115</LINE></L1>
+  <L2><FILE>C:\Users\minhk\Documents\Atmel Studio\7.0\Homework_SPI_slave\Homework_SPI_slave\main.asm</FILE><LINE>116</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
